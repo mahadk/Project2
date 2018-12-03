@@ -1,0 +1,28 @@
+{
+  "id": "e9151254-cbb8-4579-bac6-09fe9265e08f",
+  "name": "ALProject1_MHA",
+  "publisher": "Martins AddOn 1",
+  "brief": "Mit semninar",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://mdata.dk",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": 
+  {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.1",
+  "showMyCode": true,
+  "features": ["TranslationFile"],
+  "target": "Internal"
+  
+}
