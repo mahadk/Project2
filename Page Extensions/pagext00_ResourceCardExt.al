@@ -22,7 +22,7 @@ pageextension 50100 "CSD ResourceCardExt" extends "Resource Card"
             group("CSD Room")
             {
                 Caption = 'Rum';
-
+                Visible = ShowMaxField;
                 field("CSD Maximum Participants";"CSD Maximum Participants")
                 {
 
