@@ -47,7 +47,7 @@ page 50101 "CSD Seminar Card"
             }
             group(Invoicing)
             {
-                field("Gen. Prod. Posting Proup"; "Gen. Prod. Posting Proup")
+                field("Gen. Prod. Posting Proup"; "Gen. Prod. Posting Group")
                 {
 
                 }

@@ -56,7 +56,7 @@ table 50101 "CSD Seminar"
         {
             AutoFormatType = 1;
         }
-        field(110; "Gen. Prod. Posting Proup"; Code[10])
+        field(110; "Gen. Prod. Posting Group"; Code[10])
         {
             TableRelation = "Gen. Product Posting Group";
         }

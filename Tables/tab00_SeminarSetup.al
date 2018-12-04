@@ -16,12 +16,12 @@ table 50100 "CSD Seminar Setup"
             Caption = 'Nummerserie';
             TableRelation = "No. Series";
         }
-        field(30;"Seminar Registration Nos"; Code[10])
+        field(30;"Seminar Registration Nos."; Code[10])
         {           
             Caption = 'Reg. Nummerserie';
             TableRelation = "No. Series";
         }
-        field(40;"Posted Seminar Reg. Nos"; Code[10])
+        field(40;"Posted Seminar Reg. Nos."; Code[10])
         {           
             Caption = 'Bogf. Reg. Nummerserie';
             TableRelation = "No. Series";
