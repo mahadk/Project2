@@ -285,6 +285,10 @@ table 50110 "CSD Seminar Reg. Header"
         {
             Caption = 'Posting No.';
         }
+        field(29; "No. Printed"; Integer)
+        {
+            Caption = 'No. Printed';
+        }        
 
     }
 
