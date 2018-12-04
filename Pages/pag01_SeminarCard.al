@@ -51,7 +51,7 @@ page 50101 "CSD Seminar Card"
                 {
 
                 }
-                field("VAT Prod. Posting Proup"; "VAT Prod. Posting Proup")
+                field("VAT Prod. Posting Proup"; "VAT Prod. Posting Group")
                 {
 
                 }

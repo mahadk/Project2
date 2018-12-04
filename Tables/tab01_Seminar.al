@@ -61,7 +61,7 @@ table 50101 "CSD Seminar"
             TableRelation = "Gen. Product Posting Group";
         }
 
-        field(120; "VAT Prod. Posting Proup"; Code[10])
+        field(120; "VAT Prod. Posting Group"; Code[10])
         {
             TableRelation = "VAT Product Posting Group";
         }
