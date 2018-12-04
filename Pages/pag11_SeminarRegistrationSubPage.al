@@ -6,7 +6,7 @@ page 50111 "CSD Seminar Reg. Subpage"
 
     Caption = 'Lines';
     DelayedInsert = true;
-    PageType = List;
+    PageType = ListPart;
     SourceTable = "CSD Seminar Registration Line";
 
     layout
